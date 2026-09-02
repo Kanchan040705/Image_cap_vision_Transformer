@@ -1,12 +1,5 @@
 # readme.md
 
-## Team Members
-
-- Barun Parua (21CS10014)
-- Owais Ahmad Lone (21CS10048)
-- Navaneeth Shaji (21CS30032)
-- Niranjana Reddy (21CS30033)
-
 ## Running Instructions
 
 ### Part A

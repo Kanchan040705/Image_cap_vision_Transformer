@@ -1,4 +1,4 @@
-# Deep Learning Term Project — Image Captioning
+# Deep Learning Project — Image Captioning Using Vision Transformer
 
 **Team:** Mind Mavericks 
 
